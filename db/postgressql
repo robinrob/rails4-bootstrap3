@@ -1,0 +1,6 @@
+adapter: postgresql
+encoding: unicode
+database: mrrobinsmith_development
+pool: 5
+username: msl
+password:
