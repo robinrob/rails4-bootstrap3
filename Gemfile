@@ -10,6 +10,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 gem 'high_voltage'
 gem 'colorize'
+gem 'pg'
 
 group :doc do
   gem 'sdoc', '~> 0.4.0'
