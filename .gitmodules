@@ -1,3 +1,0 @@
-[submodule "rake"]
-	path = rake
-	url = https://github.com/robinrob/rakefile.git
